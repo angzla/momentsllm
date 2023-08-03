@@ -1,0 +1,180 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"description": "Weekend done already??? Maybe we can ease the pain with classic moments from these iconic office comedies  ",
+			"startDate": "2023-07-01T04:00:00.000Z",
+			"title": "Case of the Mondays",
+			"published": false,
+			"endDate": "2023-09-30T04:00:00.000Z",
+			"featureImageurl": "https://cdn.glitch.global/0c7d8705-5f5d-499c-b0c9-a6500b8ef0f3/mondays.png?v=1689623824378",
+			"activities": [
+				{
+					"id": 1,
+					"title": "The Office - Level 1 Trivia",
+					"type": "Trivia",
+					"entitlementUrl": null,
+					"trivia": {
+						"id": 1,
+						"title": "The Office",
+						"description": null,
+						"imageUrl": "https://d1v8s23we6v87u.cloudfront.net/the_office_trivia_logo.png",
+						"backgroundColor": "0xFF3D2997",
+						"videoUrl": null,
+						"questions": [
+							{
+								"id": 4,
+								"prompt": "Which character has a \"World's Best Boss\" mug?",
+								"questionType": "Multiple Choice",
+								"imageUrl": null,
+								"hint": null,
+								"videoUrl": null,
+								"incorrectAnswers": [
+									{
+										"id": 2,
+										"response": "Dwight"
+									},
+									{
+										"id": 1,
+										"response": "Jim"
+									},
+									{
+										"id": 4,
+										"response": "Andy"
+									}
+								],
+								"correctAnswers": [
+									{
+										"id": 3,
+										"response": "Michael"
+									}
+								]
+							},
+							{
+								"id": 6,
+								"prompt": "I have always been your... ",
+								"questionType": "Multiple Choice",
+								"imageUrl": null,
+								"hint": "Season 2 - Episode 11",
+								"videoUrl": "https://moments.comcastlabs.comcast.com/video/jello.mp4",
+								"incorrectAnswers": [
+									{
+										"id": 17,
+										"response": "Peppery Pete"
+									},
+									{
+										"id": 18,
+										"response": "Closest Clam"
+									}
+								],
+								"correctAnswers": [
+									{
+										"id": 16,
+										"response": "Biggest Flan"
+									}
+								]
+							},
+							{
+								"id": 3,
+								"prompt": "Which character has a beet farm?",
+								"questionType": "Multiple Choice",
+								"imageUrl": null,
+								"hint": null,
+								"videoUrl": null,
+								"incorrectAnswers": [
+									{
+										"id": 4,
+										"response": "Andy"
+									},
+									{
+										"id": 8,
+										"response": "Pam"
+									},
+									{
+										"id": 1,
+										"response": "Jim"
+									},
+									{
+										"id": 3,
+										"response": "Michael"
+									},
+									{
+										"id": 9,
+										"response": "Kelly"
+									}
+								],
+								"correctAnswers": [
+									{
+										"id": 2,
+										"response": "Dwight"
+									}
+								]
+							},
+							{
+								"id": 1,
+								"prompt": "Who is the regional manager of Dunder Mifflin Scranton?",
+								"questionType": "Multiple Choice",
+								"imageUrl": null,
+								"hint": null,
+								"videoUrl": null,
+								"incorrectAnswers": [
+									{
+										"id": 1,
+										"response": "Jim"
+									},
+									{
+										"id": 9,
+										"response": "Kelly"
+									},
+									{
+										"id": 8,
+										"response": "Pam"
+									}
+								],
+								"correctAnswers": [
+									{
+										"id": 3,
+										"response": "Michael"
+									}
+								]
+							}
+						]
+					}
+				},
+				{
+					"id": 2,
+					"title": "Watch Episode 1 of the Office",
+					"type": "Watchable",
+					"entitlementUrl": null,
+					"trivia": null
+				}
+			]
+		},
+		{
+			"id": 2,
+			"description": "Being a vampire is hard. In fact, some nights it's downright draining 🧛‍♂️",
+			"startDate": "2023-07-04T04:00:00.000Z",
+			"title": "Quick Bites",
+			"published": false,
+			"endDate": "2023-07-31T04:00:00.000Z",
+			"featureImageurl": "https://cdn.glitch.global/0c7d8705-5f5d-499c-b0c9-a6500b8ef0f3/Renfield.png?v=1687988899807",
+			"activities": [
+				{
+					"id": 3,
+					"title": "Renfield - Final Trailer",
+					"type": "Watchable",
+					"entitlementUrl": null,
+					"trivia": null
+				}
+			]
+		}
+	],
+	"meta": {
+		"pagination": {
+			"page": 1,
+			"pageSize": 25,
+			"pageCount": 1,
+			"total": 2
+		}
+	}
+}
